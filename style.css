@@ -1,0 +1,32 @@
+*{
+	margin: auto;
+	padding: 0px;
+}
+p {
+    margin: 0 0;
+}
+p.post {
+    border: 1px solid #a1d6f5;
+}
+button.s {
+    background-color: transparent;
+    border: 0.1px blue solid;
+    font-size: 8px;
+}
+button.r {
+    background-color: transparent;
+    border: 0.1px blue solid;
+    font-size: 8px;
+}
+
+/*commenets */
+.commentDiv {
+    border: 0.3px solid blue !important;
+    display: block;
+    position: relative;
+    left: 1%;
+    width: 95%;
+}
+
+
+
